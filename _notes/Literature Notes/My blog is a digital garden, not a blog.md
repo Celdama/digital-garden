@@ -10,6 +10,3 @@ We gather and work together in community gardens to share the labor as well as t
 We're all constantly bombarded w/ informations but the challenge is absorbing it and applying it to the context of our lives and careers. Organized with a touch of chaos around the edge. 
 
 It's relaxing to sit down to the keyboard and do a little gardening ❤️
-
-## References
-1. [[Fleeting Notes/My blog is a digital garden, not a blog]]
