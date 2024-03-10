@@ -4,7 +4,7 @@ import Link from 'next/link';
 import styled, { css } from 'styled-components';
 import { alpha } from '@theme-ui/color';
 
-const Inner = styled.a`
+const Inner = styled.span`
   text-decoration: none;
   border: none;
   ${({ theme }) => css`
@@ -18,7 +18,7 @@ const Inner = styled.a`
 
 function GardenLink({ href, children }) {
   return (
-    <Link href={href} passHref>
+    <Link href={href}>
       <Inner>{children}</Inner>
     </Link>
   );

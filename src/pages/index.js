@@ -7,6 +7,7 @@ import { getPages } from '@mdx';
 
 export default function Home({ recentPosts }) {
   return (
+    // <p>hello world</p>
     <Layout>
       <SEO title="🌱 garden" />
       <h1>

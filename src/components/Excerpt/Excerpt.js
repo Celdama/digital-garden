@@ -23,7 +23,7 @@ function Excerpt({ post }) {
   return (
     <PostExcerpt>
       <small>{date}</small>
-      <Link href={`/${slug.join('/')}`} passHef>
+      <Link href={`/${slug.join('/')}`}>
         <h3>{title}</h3>
       </Link>
       <p>{description}</p>

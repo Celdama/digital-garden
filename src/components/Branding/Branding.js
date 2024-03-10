@@ -3,7 +3,7 @@ import { Link } from '@components';
 
 function Branding() {
   return (
-    <Link href="/" passHref>
+    <Link href="/">
       <span role="img" aria-label="seedling">
         🌱
       </span>
